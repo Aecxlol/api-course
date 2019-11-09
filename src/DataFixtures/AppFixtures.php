@@ -13,7 +13,7 @@ use Symfony\Component\Security\Core\Encoder\UserPasswordEncoderInterface;
 class AppFixtures extends Fixture
 {
     /**
-     * Encodeur mtp
+     * Encodeur mdp
      *
      * @var UserPasswordEncoderInterface
      */
